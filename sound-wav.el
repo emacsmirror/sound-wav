@@ -1,7 +1,7 @@
 ;;; sound-wav.el --- Play wav file
 
 ;; Copyright (C) 2016  Syohei YOSHIDA
-;; Copyright (C) 2020-2024  Jen-Chieh Shen
+;; Copyright (C) 2020-2026  Jen-Chieh Shen
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
 ;; Maintainer: Shen, Jen-Chieh <jcs090218@gmail.com>
